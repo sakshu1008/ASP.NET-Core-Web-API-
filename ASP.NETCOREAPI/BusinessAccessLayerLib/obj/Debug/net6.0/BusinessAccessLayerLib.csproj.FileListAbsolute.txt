@@ -1,0 +1,15 @@
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\bin\Debug\net6.0\BusinessAccessLayerLib.deps.json
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\bin\Debug\net6.0\BusinessAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\bin\Debug\net6.0\BusinessAccessLayerLib.pdb
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.csproj.AssemblyReference.cache
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.AssemblyInfoInputs.cache
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.AssemblyInfo.cs
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.csproj.CoreCompileInputs.cache
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\refint\BusinessAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.pdb
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\ref\BusinessAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\bin\Debug\net6.0\DataAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\bin\Debug\net6.0\DataAccessLayerLib.pdb
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\BusinessAccessLayerLib\obj\Debug\net6.0\BusinessAccessLayerLib.csproj.CopyComplete

@@ -1,0 +1,12 @@
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\bin\Debug\net6.0\DataAccessLayerLib.deps.json
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\bin\Debug\net6.0\DataAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\bin\Debug\net6.0\DataAccessLayerLib.pdb
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\DataAccessLayerLib.csproj.AssemblyReference.cache
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\DataAccessLayerLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\DataAccessLayerLib.AssemblyInfoInputs.cache
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\DataAccessLayerLib.AssemblyInfo.cs
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\DataAccessLayerLib.csproj.CoreCompileInputs.cache
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\DataAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\refint\DataAccessLayerLib.dll
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\DataAccessLayerLib.pdb
+E:\KT sessions\ASP.NET CORE WEB API\ASP.NETCOREAPI\DataAccessLayerLib\obj\Debug\net6.0\ref\DataAccessLayerLib.dll
